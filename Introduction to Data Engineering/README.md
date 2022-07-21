@@ -19,9 +19,7 @@
 
 ## About The Project
 
-In this project, I learned how to do data modeling with PostgreSQL and how build an ETL pipeline using Python.
 
-I applied what I've learned on data modeling using these tools to build a table schema, and to write an ETL pipeline that transfers data from files in two local directories into these tables.
 
 ## **Contact**
 
