@@ -12,7 +12,7 @@
 
 ## Certificate
 
-<img src="./Certificate.jpg" alt="certificate" style="zoom:50%;" />
+<img src="../Certificates/Introduction to Data Engineering - Certificate.jpg" alt="certificate" style="zoom:50%;" />
 
 
 <!-- ABOUT THE PROJECT -->
