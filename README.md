@@ -2,7 +2,7 @@
  </a>
  <h1 align="center">IBM Data Engineering Professional Certificate</h1>
  <p align="center">
-  Udacity Nanodegree
+  IBM Professional Certificate
   <br />
   <a href=https://github.com/BinariesGoalls/IBM-Data-Engineering-Professional-Certificate>Explore the repository»</strong></a>
   <br />
