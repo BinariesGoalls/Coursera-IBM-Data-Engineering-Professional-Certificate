@@ -3,16 +3,16 @@
 
 <p align="center">
  </a>
- <h1 align="center">Introduction to Data Engineering</h1>
+ <h1 align="center">Python for Data Science, AI & Development</h1>
  <p align="center">
  </p>
 </p>
 
-> Data Science, Database (DBMS), NoSQL, SQL
+> Data Science, Python Programming, Data Analysis, Pandas, Numpy
 
 ## Certificate
 
-<img src="../Certificates/Introduction to Data Engineering - Certificate.jpg" alt="certificate" style="zoom:50%;" />
+<img src="../Certificates/Python%20for%20Data%20Science%2C%20AI%20%26%20Development%20-%20Certificate.jpeg" alt="certificate" style="zoom:50%;" />
 
 
 <!-- ABOUT THE PROJECT -->
