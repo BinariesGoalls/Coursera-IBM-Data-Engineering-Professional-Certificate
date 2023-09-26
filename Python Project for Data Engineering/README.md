@@ -3,16 +3,16 @@
 
 <p align="center">
  </a>
- <h1 align="center">Introduction to Data Engineering</h1>
+ <h1 align="center">Python Project for Data Engineering</h1>
  <p align="center">
  </p>
 </p>
 
-> Data Science, Database (DBMS), NoSQL, SQL
+> Information Engineering, Python Programming, Extract Transform and Load (ETL), Data Engineer, Web Scraping
 
 ## Certificate
 
-<img src="../Certificates/Introduction to Data Engineering - Certificate.jpg" alt="certificate" style="zoom:50%;" />
+<img src="../Certificates/Python%20Project%20for%20Data%20Engineering%20-%20Certificate.jpeg" alt="certificate" style="zoom:50%;" />
 
 
 <!-- ABOUT THE PROJECT -->
